@@ -1,0 +1,1 @@
+print ('dia lagi terjun')
