@@ -1,1 +1,1 @@
-print ('dia lagi terjun')
+print ('dia lagi terjun di jembatan kematian')
