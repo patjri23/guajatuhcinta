@@ -1,1 +1,1 @@
-print ('dia lagi mandi')
+print ('dia lagi mandi kembang 7 rupa')
